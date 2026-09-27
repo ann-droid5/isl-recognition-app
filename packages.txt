@@ -1,3 +1,5 @@
 libgl1
 libglib2.0-0
 libstdc++6
+libegl1
+libegl1-mesa-dev
