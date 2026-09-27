@@ -1,0 +1,12 @@
+{
+    "number_of_classes": 110,
+    "max_images_per_class": 500,
+    "train_images": 27860,
+    "validation_images": 5970,
+    "test_images": 5970,
+    "final_training_accuracy": 0.9234386086463928,
+    "final_validation_accuracy": 0.9435510635375977,
+    "best_validation_accuracy": 0.9435510635375977,
+    "test_accuracy": 0.9346733689308167,
+    "test_loss": 0.2047293335199356
+}
